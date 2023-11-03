@@ -24,7 +24,7 @@ public class AppTest
 	WebDriver driver; 
 	WebDriverWait wait; 
 	// String url = "http://localhost";
-	String url = "http://192.168.137.1";
+	String url = "http://192.168.1.233";
 
 	String validEmail = "user@example.com";
 	String validPassword = "password1234";
