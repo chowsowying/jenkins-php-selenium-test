@@ -5,8 +5,8 @@ sleep 1
 set +x
 
 # Replace 'localhost' with your laptop's IP address
-laptop_ip="192.168.137.1"
+
 echo "Now..."
-echo "Visit http://$laptop_ip to see your PHP application in action."
+echo "Visit http://localhost to see your PHP application in action."
 
 
